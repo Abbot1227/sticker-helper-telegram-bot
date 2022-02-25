@@ -2,8 +2,8 @@ from aiogram import Bot, Dispatcher
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from aiogram.contrib.middlewares.logging import LoggingMiddleware
 
-TOKEN = '5257424513:AAEDzrawY43HuNX_ajYnpIzJ9UShAVQfeNQ'
-HEROKU_APP = 'stiker-helper-bot'
+TOKEN = 'YOUR_BOT_TOKEN'
+HEROKU_APP = 'YOUR_HEROKU_APP_NAME'
 
 
 
