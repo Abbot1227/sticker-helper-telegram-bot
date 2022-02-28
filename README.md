@@ -2,4 +2,4 @@
 Bot for helping users in creating their stickers. Written with aiogram
 Hosted on Heroku.
 
-Available at t.me/StikerHelperBot
+Available at https//t.me/StikerHelperBot
